@@ -1,0 +1,67 @@
+.NAVBAR {
+    padding: 5px;
+    padding-left: 20px;
+    margin: 10px;
+    background: darkred;
+    
+    
+}
+
+.nav-link{
+    font-weight: bold;
+    color: black
+}
+
+.navbar-brand{
+    color: black
+}
+
+.images{
+    background: black;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.div2{
+    padding: 5px;
+}
+
+.contactBox{
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+}
+
+#contactline1{
+    border-style: solid;
+    border-width: thick;
+    border-color:darkred;
+}
+
+.mb-3{
+    background-color: darksalmon;
+}
+
+h1{
+    padding: 20px ;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+    background: brown;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.lead{
+    text-align: center;
+    font-size: 30px;
+    background: darkred;
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+    font-style: italic;
+}

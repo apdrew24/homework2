@@ -1,0 +1,52 @@
+h1{
+    padding: 20px ;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+    background: brown;
+    
+}
+ .display-4{
+     font-weight: bold;
+     font-style: oblique;
+ }
+
+
+#para{
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: gray
+}
+
+.img-thumbnail{
+ 
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.NAVBAR {
+    padding: 5px;
+    padding-left: 20px;
+    margin: 10px;
+    background: darkred;
+    
+    
+}
+
+.nav-link{
+    font-weight: bold;
+    color: black
+}
+
+.navbar-brand{
+    color: black
+}
